@@ -6,6 +6,7 @@ type Galaxy = {
     id: number;
 };
 
+
 function readGalaxy(
     galaxies: Galaxy[],
     value: string,
